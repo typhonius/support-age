@@ -9,7 +9,7 @@ $supportians = array(
   "Alex Dicianu" => array("birth" => "01-01-2008",),
   "Barrett Smith" => array("birth" => "01-03-2006"),
   "Drew Webber" => array("birth" => "01-02-2006", "uid" => 255969,),
-  "John Takousis" => array("birth" => "01-09-2011"),
+  "John Takousis" => array("birth" => "01-09-2011", "uid" => 1792608),
   "Niels van Mourik" => array("birth" => "01-02-2007"),
   "Tim Millwood" => array("birth" => "01-01-2008"),
 );
