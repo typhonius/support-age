@@ -16,6 +16,7 @@ $supportians = array(
   "Drew Webber" => array("birth" => "01-02-2006", "uid" => 255969,),
   "Gord Christmas" => array("birth" => "01-11-2005",),
   "Jamie Meredith" => array("birth" => "01-03-2005",),
+  "Jacqi Jordan" => array("birth" => "20-09-2010",),
   "Jess Straatmann" => array("birth" => "01-02-2007",),
   "John Takousis" => array("birth" => "01-09-2011", "uid" => 1792608),
   "Jon Muir" => array("birth" => "11-01-2007", "uid" => 100919),
