@@ -63,7 +63,6 @@ function get_duration($date) {
   $d2 = new DateTime($date);
   $diff = $d2->diff($d1);
 
-  $skillz += strtotime($date);
   return array($diff->format('P%yY%mM%dD'), strtotime($date));
 
 }
