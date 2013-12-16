@@ -13,6 +13,7 @@ $supportians = array(
   "Char Cotrill" => array("birth" => "13-02-2008"),
   "Chris Hoffman" => array("birth" => "04-01-2011",),
   "Chris O'Neill" => array("birth" => "01-01-2007",),
+  "Daniel Blomqvist" => array("birth" => "12-12-2011",),
   "Drew Webber" => array("birth" => "01-02-2006", "uid" => 255969,),
   "Gord Christmas" => array("birth" => "01-11-2005",),
   "Jamie Meredith" => array("birth" => "01-03-2005",),
@@ -29,6 +30,7 @@ $supportians = array(
   "Simon Cooper" => array("birth" => "01-10-2007",),
   "Scott Reese" => array("birth" => "10-02-2008",),
   "Scott Rouse" => array("birth" => "02-12-2007",),
+  "Steve Cronen-Townsend" => array("birth" => "16-01-2009",),
   "Tim Millwood" => array("birth" => "01-01-2008"),
 );
 
