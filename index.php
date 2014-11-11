@@ -34,6 +34,8 @@ $supportians = array(
   "Tim Millwood" => array("birth" => "01-01-2008"),
 );
 
+date_default_timezone_set('UTC');
+
 foreach ($supportians as $supportian => $info) {
   print wrap_field('person', $supportian, $info) . wrap_field('time', $info["birth"]);
 }
