@@ -73,8 +73,8 @@ function add_header() {
   $header = '<html><head>';
   $header .= '<title>Supportian Experience | glo5</title>';
   $header .= '<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>';
-  $header .= '<script src="/support-age/countdown.min.js"></script>';
-  $header .= '<script src="/support-age/ages.js"></script>';
+  $header .= '<script src="/countdown.min.js"></script>';
+  $header .= '<script src="/ages.js"></script>';
   $header .= '<style type="text/css">
                 .supportian {float:left; padding-right:1em;}
                 .supportian::after {content:": ";}
